@@ -1,0 +1,14 @@
+flask
+numpy
+scikit-learn
+ifaddr
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+zeroconf
+gunicorn
+pyyaml 
+pandas 
+joblib
+
